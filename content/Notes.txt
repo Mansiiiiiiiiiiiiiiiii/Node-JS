@@ -8,3 +8,9 @@ HTTP
 EVENTS
 Events-Driven Programming
 Used Heavily in Node.js
+
+STREAMS
+Writeable
+Readable
+Duplex
+Transform
